@@ -1,0 +1,1 @@
+import{ut as e}from"./index-CMEa3TlC.js";var t=e(`chevron-right`,[[`path`,{d:`m9 18 6-6-6-6`,key:`mthhwq`}]]);export{t};
